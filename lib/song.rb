@@ -9,4 +9,6 @@ class Song
     @genre = genre
   end
 
+  @@count = 0
+    
 end
